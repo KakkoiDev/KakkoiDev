@@ -1,6 +1,6 @@
 Do you want to grow your business with a website or a mobile app?
 
-I've spent over 5 years in the tech industry creating and enhancing web and mobile applications.
+I've spent 6 years in the tech industry creating and enhancing web and mobile applications.
 
 🏆 My achievements:
 - Created from scratch a webapp and a mobile app for a fintech startup.
